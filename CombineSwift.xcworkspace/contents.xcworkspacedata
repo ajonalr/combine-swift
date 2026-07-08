@@ -2,6 +2,27 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:PracticaJusetos.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PracticaError.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PracticaErrors.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PruebaCuponDescuento.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PracticaPrecios.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PracticaCarrito.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PracticaEjemplo.playground">
+   </FileRef>
+   <FileRef
       location = "group:URLSession.playground">
    </FileRef>
    <FileRef
