@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:URLSession.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Just.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PubliserJusandFail.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PassthoeughSubjectCurrentValueSubject.playground">
+   </FileRef>
+   <FileRef
+      location = "group:OperatorRetry.playground">
+   </FileRef>
+   <FileRef
+      location = "group:OperatorTryMap.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Feature.playground">
+   </FileRef>
+   <FileRef
+      location = "group:OperatorMap.playground">
+   </FileRef>
+   <FileRef
+      location = "group:OperatorFlatMap.playground">
+   </FileRef>
+   <FileRef
+      location = "group:OperatorFilter.playground">
+   </FileRef>
+</Workspace>
